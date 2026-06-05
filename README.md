@@ -8,7 +8,7 @@ A 32-bit RV32I Single-Cycle RISC-V Processor implemented in Verilog HDL. The pro
 
 The processor follows a single-cycle datapath architecture where each instruction is completed within one clock cycle.
 
-![Processor Datapath](FIG01.png)
+![Processor Datapath](BlockDiagram.png)
 
 ### Major Components
 
